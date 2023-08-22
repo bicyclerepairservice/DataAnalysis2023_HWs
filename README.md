@@ -4,7 +4,7 @@ Vladislav Gusev, BEC212
 
 ---------
 ### General information about the repository
-In this repository you can find completed home assignments that were given in the course "Data Analysis on Python" in the 2nd semester of 2022/2023 year of study. All the homework tasks have mark above 9.5 out of 10 and are written in Russian language. 
+In this repository you can find completed home assignments that were given in the course "Data Analysis in Python" in the 2nd semester of 2022/2023 year of study. All the homework tasks have mark above 9.5 out of 10 and are written in Russian language. 
 
 The ReadMe section is written in English for my own insidious purposes.
 
